@@ -1,0 +1,10 @@
+body{
+  background-color:pink;
+}
+.a{
+  display:flex;
+  justify-content:center;
+}
+img{
+  padding-left:100px;
+}
